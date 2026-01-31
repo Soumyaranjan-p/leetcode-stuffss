@@ -7,6 +7,7 @@ just stuffs
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Soumyaranjan-p/leetcode-stuffss/tree/master/0075-sort-colors) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Soumyaranjan-p/leetcode-stuffss/tree/master/0540-single-element-in-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -15,4 +16,8 @@ just stuffs
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Soumyaranjan-p/leetcode-stuffss/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/Soumyaranjan-p/leetcode-stuffss/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
