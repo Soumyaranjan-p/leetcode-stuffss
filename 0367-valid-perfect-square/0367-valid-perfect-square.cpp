@@ -3,7 +3,7 @@ public:
     bool isPerfectSquare(int num) {
         if (num < 2) return true;
         
-        long low = 0, high = num;  // Use long to prevent overflow
+        long low = 0, high = num; 
         
         while (low <= high) {
             long mid = low + (high - low) / 2;
