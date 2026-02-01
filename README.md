@@ -12,6 +12,7 @@ just stuffs
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Soumyaranjan-p/leetcode-stuffss/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Soumyaranjan-p/leetcode-stuffss/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -25,4 +26,8 @@ just stuffs
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Soumyaranjan-p/leetcode-stuffss/tree/master/0367-valid-perfect-square) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Soumyaranjan-p/leetcode-stuffss/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
