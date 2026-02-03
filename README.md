@@ -6,6 +6,7 @@ just stuffs
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Soumyaranjan-p/leetcode-stuffss/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/Soumyaranjan-p/leetcode-stuffss/tree/master/0075-sort-colors) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Soumyaranjan-p/leetcode-stuffss/tree/master/0540-single-element-in-a-sorted-array) |
 ## Two Pointers
@@ -29,5 +30,10 @@ just stuffs
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Soumyaranjan-p/leetcode-stuffss/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Soumyaranjan-p/leetcode-stuffss/tree/master/0125-valid-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Soumyaranjan-p/leetcode-stuffss/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
