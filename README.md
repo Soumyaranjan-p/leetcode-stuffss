@@ -26,14 +26,20 @@ just stuffs
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Soumyaranjan-p/leetcode-stuffss/tree/master/0013-roman-to-integer) |
 | [0367-valid-perfect-square](https://github.com/Soumyaranjan-p/leetcode-stuffss/tree/master/0367-valid-perfect-square) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Soumyaranjan-p/leetcode-stuffss/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Soumyaranjan-p/leetcode-stuffss/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Soumyaranjan-p/leetcode-stuffss/tree/master/0125-valid-palindrome) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Soumyaranjan-p/leetcode-stuffss/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Soumyaranjan-p/leetcode-stuffss/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
