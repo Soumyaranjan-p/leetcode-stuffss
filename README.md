@@ -9,6 +9,7 @@ just stuffs
 | [0014-longest-common-prefix](https://github.com/Soumyaranjan-p/leetcode-stuffss/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/Soumyaranjan-p/leetcode-stuffss/tree/master/0075-sort-colors) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Soumyaranjan-p/leetcode-stuffss/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Soumyaranjan-p/leetcode-stuffss/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,4 +43,9 @@ just stuffs
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Soumyaranjan-p/leetcode-stuffss/tree/master/0013-roman-to-integer) |
+| [0560-subarray-sum-equals-k](https://github.com/Soumyaranjan-p/leetcode-stuffss/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Soumyaranjan-p/leetcode-stuffss/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
