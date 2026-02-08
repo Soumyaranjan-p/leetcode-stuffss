@@ -9,13 +9,8 @@ public:
             return 0;
             revNum=revNum*10+dig;
             x=x/10;
-
-  
-    
         }
        return revNum;
-
-
         
     }
 };
