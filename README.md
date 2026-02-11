@@ -29,6 +29,7 @@ just stuffs
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Soumyaranjan-p/leetcode-stuffss/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Soumyaranjan-p/leetcode-stuffss/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Soumyaranjan-p/leetcode-stuffss/tree/master/0013-roman-to-integer) |
 | [0204-count-primes](https://github.com/Soumyaranjan-p/leetcode-stuffss/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/Soumyaranjan-p/leetcode-stuffss/tree/master/0367-valid-perfect-square) |
